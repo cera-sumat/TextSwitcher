@@ -2,175 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_16154dfd4396ccec8a1ba5ab715bfbdf062bec1a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f29fe4783f46c18da3ed8d645a144b4e727b3c06">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c785ba43091216e33107aeb0bed76abd4b58007c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce6e99c68b8ce233a442d6aa8fe55342232b072a">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0321fcf8c44e246534d61299c44167e7b9104a85\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_26aa40ac6b513ba45cd335dd2908c3a8cf619009\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_2aaf509dcf27ba496c05a2f2ba25bd8eed35e354\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c144a42a0fc123c4860d0343d7d8cc8b9b203d39\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_d8410deeee9997959de583582130d709271be27b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_1aa6748b09622bae4bdf9b972fa964dced547ef7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.0.1_7ef963d162efa327ff21c233ca15d5c3f536fa83\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2d4fa241ef4a20fb383ba7cceaa8ec83109ab070\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_918aed6a1d36481cf34e842f70b40d96740c0bc4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7b3d56ff8a4f94ffdc21780008eb0571723a8c48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_2dc44e7ece224ef421b14be3c4a135b36f0530ab\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f47d88a2a398757a6ecb6082f897ca153e34c6ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_12d5ca3c55ed73ed21710cdc9212728d4336f470\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_f5425d5739ba53c3e359a18ae491395ae07ea1fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d160da44b13cbf771ee8d31e85ba0aeb5123a80c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_69db155960655e558994c748cd417e743ce93140\classes.dex" />
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_69db155960655e558994c748cd417e743ce93140.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_16154dfd4396ccec8a1ba5ab715bfbdf062bec1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_2aaf509dcf27ba496c05a2f2ba25bd8eed35e354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c144a42a0fc123c4860d0343d7d8cc8b9b203d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_1aa6748b09622bae4bdf9b972fa964dced547ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_12d5ca3c55ed73ed21710cdc9212728d4336f470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_f47d88a2a398757a6ecb6082f897ca153e34c6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d160da44b13cbf771ee8d31e85ba0aeb5123a80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_2dc44e7ece224ef421b14be3c4a135b36f0530ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_26aa40ac6b513ba45cd335dd2908c3a8cf619009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_7ef963d162efa327ff21c233ca15d5c3f536fa83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_d8410deeee9997959de583582130d709271be27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_918aed6a1d36481cf34e842f70b40d96740c0bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2d4fa241ef4a20fb383ba7cceaa8ec83109ab070.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_353def2b8fd21c366cac13ac19d67e693eae8c26\classes.dex" />
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_353def2b8fd21c366cac13ac19d67e693eae8c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7b3d56ff8a4f94ffdc21780008eb0571723a8c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CeraSumat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\CeraSumat\AndroidStudioProjects\TextSwitcher\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f5425d5739ba53c3e359a18ae491395ae07ea1fa.jar" />
     </item>
 
 </items>

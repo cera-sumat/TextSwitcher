@@ -1,7 +1,4 @@
-#Wed Feb 01 17:14:51 CST 2017
-base.0=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0321fcf8c44e246534d61299c44167e7b9104a85
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c785ba43091216e33107aeb0bed76abd4b58007c\\classes.dex
-base.1=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c785ba43091216e33107aeb0bed76abd4b58007c
-file.0=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0321fcf8c44e246534d61299c44167e7b9104a85\\classes.dex
+#Thu Feb 02 10:57:12 CST 2017
+base.0=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\CeraSumat\\AndroidStudioProjects\\TextSwitcher\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

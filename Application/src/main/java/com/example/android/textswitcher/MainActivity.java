@@ -26,6 +26,7 @@ import android.widget.Button;
 import android.widget.TextSwitcher;
 import android.widget.TextView;
 import android.widget.ViewSwitcher.ViewFactory;
+import android.util.Log;
 
 /**
  * This sample shows the use of the {@link android.widget.TextSwitcher} View with animations. A
@@ -34,20 +35,23 @@ import android.widget.ViewSwitcher.ViewFactory;
  * {@link android.widget.TextSwitcher#setText(CharSequence)} is called.
  */
 public class MainActivity extends Activity {
-    private TextSwitcher mSwitcher;
+    private TextSwitcher myTextSwitcher;
     private int mCounter = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
+        textSwitching();
+    }
 
+    private void textSwitching() {
         // Get the TextSwitcher view from the layout
-        mSwitcher = (TextSwitcher) findViewById(R.id.switcher);
+        myTextSwitcher = (TextSwitcher) findViewById(R.id.switcher);
 
         // BEGIN_INCLUDE(setup)
         // Set the factory used to create TextViews to switch between.
-        mSwitcher.setFactory(mFactory);
+        myTextSwitcher.setFactory(mFactory);
 
         /*
          * Set the in and out animations. Using the fade_in/out animations
@@ -57,8 +61,8 @@ public class MainActivity extends Activity {
                 android.R.anim.fade_in);
         Animation out = AnimationUtils.loadAnimation(this,
                 android.R.anim.fade_out);
-        mSwitcher.setInAnimation(in);
-        mSwitcher.setOutAnimation(out);
+        myTextSwitcher.setInAnimation(in);
+        myTextSwitcher.setOutAnimation(out);
         // END_INCLUDE(setup)
 
         /*
@@ -73,14 +77,14 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 mCounter++;
                 // BEGIN_INCLUDE(settext)
-                mSwitcher.setText(String.valueOf(mCounter));
+                myTextSwitcher.setText(String.valueOf(mCounter));
                 // END_INCLUDE(settext)
+                Log.i("MainActivity", "mCounter.value=" + mCounter);
             }
         });
 
         // Set the initial text without an animation
-        mSwitcher.setCurrentText(String.valueOf(mCounter));
-
+        myTextSwitcher.setCurrentText(String.valueOf(mCounter));
     }
 
     // BEGIN_INCLUDE(factory)
